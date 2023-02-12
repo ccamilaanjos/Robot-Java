@@ -2,7 +2,7 @@
 
 Este é um robô que acessa o site do curso de Análise e Desenvolvimento de Sistemas do IFBA, e conforme o semestre digitado no terminal, encaminha o usuário para a página referente a esse semestre.
 
-Código-fonte em SosOpener ⇨ src ⇨ bot
+Código-fonte em src ⇨ bot
 
 ### Linguagens utilizadas
 
